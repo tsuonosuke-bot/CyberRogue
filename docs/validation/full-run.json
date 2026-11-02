@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "seed": "ui-complete-0",
+      "won": true,
+      "night": 12,
+      "credit": 42,
+      "steps": 142,
+      "reloaded": true,
+      "reason": "箱を開け、12夜を生き延びた。"
+    }
+  ],
+  "pageErrors": [],
+  "engineSHA256": "b71ee66b7080b3e7c093fd278d193cf72bea5d49b924ff439f154e01a97d1af5",
+  "dataSHA256": "7cb8bf9fc22ca5821cc845d1f2d3b7bb8f3ba9924b6113ff5e203f85e9f3fd31"
+}

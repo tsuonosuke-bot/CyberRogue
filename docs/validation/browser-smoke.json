@@ -1,0 +1,12 @@
+{
+  "checks": 47,
+  "pageErrors": [],
+  "engineSHA256": "b71ee66b7080b3e7c093fd278d193cf72bea5d49b924ff439f154e01a97d1af5",
+  "dataSHA256": "7cb8bf9fc22ca5821cc845d1f2d3b7bb8f3ba9924b6113ff5e203f85e9f3fd31",
+  "appSHA256": "0d31251b7e767cfeed3319f658651a559a4680e40581381e7a3419479da0e47a",
+  "styleSHA256": "cfe4bb3608c3f445ea80f69c11451ff4c06e217e1749462322718b90c8e5b136",
+  "viewports": [
+    "1440x1000",
+    "390x844"
+  ]
+}
