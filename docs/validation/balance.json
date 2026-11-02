@@ -1,0 +1,58 @@
+{
+  "runsPerPolicy": 1000,
+  "generatedAt": "2026-11-02T14:47:05.784Z",
+  "engineSHA256": "b71ee66b7080b3e7c093fd278d193cf72bea5d49b924ff439f154e01a97d1af5",
+  "dataSHA256": "7cb8bf9fc22ca5821cc845d1f2d3b7bb8f3ba9924b6113ff5e203f85e9f3fd31",
+  "policies": {
+    "novice": {
+      "wins": 189,
+      "clearRate": 0.189,
+      "actPasses": [
+        853,
+        533,
+        189
+      ],
+      "actConditional": [
+        0.853,
+        0.6248534583821805,
+        0.3545966228893058
+      ],
+      "averageFinalMoney": 18852,
+      "averageInstalledCyber": 2.379,
+      "totalDeaths": 452,
+      "totalHumanityLosses": 0,
+      "outcomes": {
+        "箱を開け、12夜を生き延びた。": 189,
+        "幕の大仕事に失敗した。": 736,
+        "全滅：動けるランナーがいなくなった。": 75
+      }
+    },
+    "careful": {
+      "wins": 583,
+      "clearRate": 0.583,
+      "actPasses": [
+        989,
+        723,
+        584
+      ],
+      "actConditional": [
+        0.989,
+        0.731041456016178,
+        0.8077455048409405
+      ],
+      "averageFinalMoney": 10706,
+      "averageInstalledCyber": 8.719,
+      "totalDeaths": 122,
+      "totalHumanityLosses": 1,
+      "outcomes": {
+        "幕の大仕事に失敗した。": 384,
+        "箱を開け、12夜を生き延びた。": 583,
+        "3夜連続の赤字。事務所は廃業した。": 30,
+        "全滅：動けるランナーがいなくなった。": 2,
+        "人間性を失い、動けるランナーがいなくなった。": 1
+      }
+    }
+  },
+  "decisionGap": 0.39399999999999996,
+  "targetMet": true
+}

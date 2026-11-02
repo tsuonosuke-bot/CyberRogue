@@ -1,0 +1,14 @@
+{
+  "name": "fixers-cut-twelve-nights",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "12夜・3幕のサイバーパンク・フィクサーローグライク",
+  "scripts": {
+    "start": "node tools/server.mjs",
+    "build": "node tools/build.mjs",
+    "test": "node --test --experimental-test-isolation=none tests/*.test.mjs",
+    "balance": "node tests/balance.cjs"
+  },
+  "engines": { "node": ">=24" }
+}
